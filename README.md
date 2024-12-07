@@ -1,1 +1,2 @@
-# Jack-Underhill-Programming_Language_Tutorial---Ruby
+# Jack Underhill
+## Programming Language Tutorial in Ruby
